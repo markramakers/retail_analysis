@@ -1,0 +1,6 @@
+sklearn
+pandas==1.1.0
+jupyterlab
+requests
+tensorflow
+fastapi
